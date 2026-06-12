@@ -11,7 +11,7 @@ The dataset contains minimally contrasting text variants designed to evaluate wh
 
 Each counterfactual set contains nine variants derived from a shared base text. The current release includes **337 counterfactual sets** and **3,033 texts** covering eight symptom or disease categories from the MedWeb task: cold, cough, diarrhea, fever, hay fever, headache, influenza, and runny nose.
 
-This initial release focuses on the checklist dataset and its basic documentation. Prompt templates, evaluation scripts, and additional reproducibility resources may be added in future updates.
+This initial release focuses on the checklist dataset and its basic documentation. Prompt templates, evaluation scripts, and additional reproducibility resources shall be added in future updates.
 
 ## Publication
 
