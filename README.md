@@ -21,7 +21,7 @@ The dataset was developed as part of the following study:
 
 The study introduces the Concept-Aware Learning Framework (CALF), a method for improving the robustness of symptom-detection models to data-specific and spuriously correlated features. The MedWeb Checklist Dataset was developed to evaluate model sensitivity to selected surveillance-relevant attributes.
 
-![Overview of CALF and the MedWeb Checklist](Data/Figure%201%20-%20updated.png)
+![Overview of CALF and the MedWeb Checklist](Images/Figure%201%20-%20updated.png)
 
 Citation details will be updated following publication. A preprint version is currently available [here](https://preprints.jmir.org/preprint/94769).
 
