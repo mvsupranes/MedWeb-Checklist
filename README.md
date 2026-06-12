@@ -30,3 +30,9 @@ Citation details will be updated following publication. A preprint version is cu
 The original MedWeb training and test datasets can be downloaded from the [NTCIR website](https://research.nii.ac.jp/ntcir/permission/ntcir-13/perm-en-MedWeb.html). Please cite the original MedWeb publication when using those datasets.
 
 The MedWeb Checklist Dataset is available in the [`Data`](Data) folder of this repository.
+
+## License
+
+The MedWeb Checklist Dataset is released under the [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+You may share the dataset in its original form for noncommercial purposes, provided that appropriate credit is given. Redistribution of modified versions is not permitted.
